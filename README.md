@@ -1,5 +1,5 @@
 # 💫 About Me:
-Participated in hackathons as a Frontend Dev<br>Fluent with React and React Native<br>Node.js<br>Java<br>
+<br>Fluent with<br>React<br>React Native<br>Node.js<br>Java<br>
 
 
 ## 🌐 Socials:
