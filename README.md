@@ -1,5 +1,5 @@
 # 💫 About Me:
-https://rishi-sh.netlify.app/
+https://rishi-sharma.me/
 <br>Fluent with :-<br>React<br>React Native<br>Node.js<br>Java<br>
 
 
